@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Krestiki-noliki Larkin</string>
+    <string name="h1">Крестики-Нолики</string>
+    <string name="h2">Для начала игры нажмите кнопку начать</string>
+    <string name="h3">Ход Х</string>
+    <string name="h4">Ход O</string>
+    <string name="h5">Поедил Х</string>
+    <string name="h6">Победил O</string>
+    <string name="next">Начать</string>
+    <string name="reset">Сброс</string>
+</resources>
